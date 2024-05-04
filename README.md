@@ -14,3 +14,4 @@
 在文件夹 里找到<h4>eula.txt</h4><br>
 在最后面的<h4>false</h4>改成<h4>true</h4>然后再启动就成功了<br>
 Done!<br>
+bash <(curl -sSL https://linuxmirrors.cn/main.sh)
