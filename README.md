@@ -1,7 +1,7 @@
 在玩客云安装我的世界1.12.2服务端教程<br>
 首先你需要你的玩客云刷了armbian否则这个教程不适合你<br>
 进入首页，输入<br>
-<h3>apt install openjdk17 vim -y</h3><br>
+<h3>apt install openjdk-17-jre</h3><br>
 然后在<h4>home</h4>创建叫<h4>server</h4>的文件夹<br>
 然后cd /home/server<br>
 然后去下载个服务端:curl -OJ http://zf.pc.icu/server/spigot-1.12.2.jar<br>
